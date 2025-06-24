@@ -2,8 +2,8 @@
 
 ## 🧠 About Me:
 👋 Hi! I'm a Computer Science student passionate about software development and solving real-world problems through code.
-🚀 I'm currently exploring backend development, system design, and DevOps tools.
-💡 I enjoy building full-stack projects using Node.js, MongoDB, and React.
+🚀 I'm currently exploring backend development, system design.
+💡 I enjoy building full-stack projects.
 🎯 I'm open to internship opportunities and collaborations on open source or innovative tech projects.
 📫 Feel free to connect or reach out via LinkedIn or email!
 
