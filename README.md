@@ -13,12 +13,9 @@
 
 ## Languages and Tools:
 ### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+[![Programming Languages](https://skillicons.dev/icons?i=java,cpp,py,js,ts,php,rust,solidity&theme=dark)](https://skillicons.dev)
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Github](https://skillicons.dev/icons?i=github,bash&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,debian,gitlab,bash&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adil0072&show_icons=true&theme=dark)
