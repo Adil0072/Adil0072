@@ -13,9 +13,9 @@
 
 ## Languages and Tools:
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,cpp,py,js,ts,php,rust,solidity&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,c,py,&theme=dark)](https://skillicons.dev)
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,debian,gitlab,bash&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,bash&theme=dark)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adil0072&show_icons=true&theme=dark)
