@@ -13,7 +13,7 @@
 
 ## Languages and Tools:
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,c,py,&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,mysql,py,c,&theme=dark)](https://skillicons.dev)
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,bash&theme=dark)](https://skillicons.dev)
 
