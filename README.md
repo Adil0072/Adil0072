@@ -2,18 +2,18 @@
 
 ## 🧠 About Me:
 👋 Hi! I'm a Computer Science student passionate about software development and solving real-world problems through code.
-🚀 I'm currently exploring backend development, system design.
+🚀 I'm currently exploring backend development.
 💡 I enjoy building full-stack projects.
 🎯 I'm open to internship opportunities and collaborations on open source or innovative tech projects.
 📫 Feel free to connect or reach out via LinkedIn or email!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/Adil-Jamal0072)
-[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamal.adil7860@gmail.com)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tecb.cse27.adil@gmail.com)
 
 ## Languages and Tools:
 ### Programming Languages
-[![Programming Languages](https://skillicons.dev/icons?i=java,mysql,py,c,&theme=dark)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,spring,mysql,py,c,&theme=dark)](https://skillicons.dev)
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,bash&theme=dark)](https://skillicons.dev)
 
